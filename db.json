@@ -1,0 +1,31 @@
+{
+    "application": [
+        {
+            "name": "Василиса Лапочкина",
+            "phone": "+79315938983",
+            "mail": "trampinio@list.ru",
+            "product": "course-js",
+            "date": "10.11.2023 11.07", 
+            "status": "new",
+            "id": 1
+        },
+        {
+            "name": "Сурима Самочкина",
+            "phone": "+79315938983",
+            "mail": "trampinio@list.ru",
+            "product": "course-js",
+            "date": "10.11.2023 15.09", 
+            "status": "new",
+            "id": 2
+        },
+        {
+            "name": "Лорен Лавочкина",
+            "phone": "+79315938983",
+            "mail": "trampinio@list.ru",
+            "product": "course-js",
+            "date": "10.11.2023 14.17", 
+            "status": "inwork",
+            "id": 3
+        }
+    ]
+}
